@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ScrBlkLock
+</name>
+</assembly>
+<members>
+<member name="T:ScrBlkLock.My.Resources.kcbpic_QS">
+<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.ResourceManager">
+<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.Culture">
+<summary>
+  使用此强类型资源类，为所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.体育">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.体育1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.信息">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.信息1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.化学">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.化学1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.历史">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.历史1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.图片1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.图片2">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.地理">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.地理1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.外语">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.外语1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.政治">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.政治1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.数学">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.数学1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.物理">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.物理1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.生物">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.生物1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.美术">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.美术1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.自习">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.自习1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.语文">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.语文1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.音乐">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.kcbpic_QS.音乐1">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="T:ScrBlkLock.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ScrBlkLock.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
